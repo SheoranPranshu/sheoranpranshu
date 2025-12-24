@@ -1,39 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:ec4899&height=200&section=header&text=Pranshu%20Sheoran&fontSize=50&fontAlignY=35&fontColor=ffffff" alt="header" />
-</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranshu%20Sheoran&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+
+<br/>
+
+<br/>
 
 ### 📌 Featured
 
-<div align="center">
-  <a href="https://github.com/sheoranpranshu/Building-Custom-Rom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranpranshu&repo=Building-Custom-Rom&theme=nightowl&border_radius=12&border_color=7e22ce" alt="Building Custom ROM" width="60%">
-  </a>
-</div>
+<a href="https://github.com/sheoranpranshu/Building-Custom-Rom">
+  <img src="https://img.shields.io/badge/🛠️_Building_Custom_ROM-Click_Here-7e22ce?style=for-the-badge&labelColor=1a1b27" />
+</a>
 
----
+<br/><br/>
 
-### 📊 Stats
+### 🌐 Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheoranpranshu&show_icons=true&theme=nightowl&border_color=7e22ce&hide_title=true&include_all_commits=true" alt="GitHub Stats" width="50%">
-</div>
+<a href="https://glitchwraith.vercel.app/">
+  <img src="https://img.shields.io/badge/🌍_Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.youtube.com/@sheoranpranshu">
+  <img src="https://img.shields.io/badge/📺_YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://t.me/glitch_wraith">
+  <img src="https://img.shields.io/badge/💬_Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
+</a>
 
----
+<br/><br/>
 
-### 🔗 Connect
+<img src="https://komarev.com/ghpvc/?username=sheoranpranshu&color=7e22ce&style=for-the-badge&label=Profile+Views" />
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://glitchwraith.vercel.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sheoranpranshu)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/glitch_wraith)
+<br/><br/>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:4f46e5&height=120&section=footer" alt="footer" />
 </div>
